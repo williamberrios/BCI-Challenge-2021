@@ -1,0 +1,8 @@
+#shap or conda install -c conda-forge shap
+lightgbm
+catboost
+scikit-learn==1.0.1
+lofo-importance
+wandb
+iterative-stratification==0.1.7
+fastparquet
