@@ -6,7 +6,6 @@ This repository contains the 1st place solution to the BCI-Challenge 2021
 ## Running
 
 
-
 1. Install Requirements
 ```
 pip install -r requirements.txt
@@ -36,3 +35,13 @@ python Code/featureset_2/generate_feature_v2.py
         + Code/featureset_2/04_3 Model 3 - Future Model-Boosting-Target-sqrt.ipynb
 6. Run Final Ensemble:
     + Code/03.Final_Ensembling.ipynb
+
+
+## Annexes:
+
+The presentation and the report can be found at [resources](https://github.com/williamberrios/BCI-Challenge-2021/tree/master/resources)
+
+
+## Author:
++ [William Berrios](https://williamberrios.github.io/)
+
