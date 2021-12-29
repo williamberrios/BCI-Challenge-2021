@@ -5,7 +5,8 @@ This repository contains the 1st place solution to the BCI-Challenge 2021
 
 ## Structure 
 
-<!-- #raw -->
+
+```
 ├── Code
 │   ├── 01.EDA.ipynb
 │   ├── 02.GenerateDataset.ipynb
@@ -138,15 +139,17 @@ This repository contains the 1st place solution to the BCI-Challenge 2021
 │       │   ├── feature_engineer.cpython-38.pyc
 │       │   └── utils.cpython-38.pyc
 │       └── utils.py
-├── requirements.txt
 ├── resources
 │   ├── Diccionario_Datos.ipynb
 │   ├── Diccionario de Variables.csv
 │   ├── Documentación_BCI_2021 - William Berrios.pdf
 │   └── Presentacion BCI - Entregable.pdf
+├── README.md
+├── requirements.txt
 └── Submission
     └── final_ensemble_submission.csv
-<!-- #endraw -->
+```
+
 
 ## Running
 
@@ -171,7 +174,7 @@ python Code/featureset_1/generate_feature_v1.py
 # Featureset 2:
 python Code/featureset_2/generate_feature_v2.py
 ```
-5. Run models from the 3 componenents:
+5. Run models from the 3 components:
     + Model in the Past:
         + Code/featureset_2/04_1 Model 1 - New Clients Model-Boosting-Target-log.ipynb
         + Code/featureset_2/04_1 Model 1 - New Clients Model-Boosting-Target-sqrt.ipynb
@@ -185,7 +188,7 @@ python Code/featureset_2/generate_feature_v2.py
 
 ## Annexes:
 
-The presentation and the report can be found at [resources](https://github.com/williamberrios/BCI-Challenge-2021/tree/master/resources)
+The presentation,report and dictionary of variables can be found at [resources](https://github.com/williamberrios/BCI-Challenge-2021/tree/master/resources)
 
 
 ## Author:
