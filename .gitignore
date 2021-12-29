@@ -134,3 +134,4 @@ dmypy.json
 Data/Data desafío BCI Challenge/*.xlsx
 Data/Data desafío BCI Challenge/*.csv
 *.parquet
+resources/Diccionario_Datos.ipynb

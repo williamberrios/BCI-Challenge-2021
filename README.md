@@ -3,6 +3,12 @@ This repository contains the 1st place solution to the BCI-Challenge 2021
 
 
 
+## Structure 
+
+```python
+
+```
+
 ## Running
 
 
